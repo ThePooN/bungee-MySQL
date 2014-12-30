@@ -7,7 +7,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 import java.util.logging.Level;
 
-import org.bukkit.plugin.Plugin;
+import net.md_5.bungee.api.plugin.Plugin;
 
 import code.husky.Database;
 
